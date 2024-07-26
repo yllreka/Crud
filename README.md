@@ -1,6 +1,6 @@
 # Crud
 
-Create a database named 'event_planner' and a table named 'events'. Then paste this code in the SQL query to have the database ready:
+Create a database in XAMPP named 'event_planner' and a table named 'events'. Then paste this code in the SQL to have the database ready:
 
 CREATE TABLE events (
     id INT AUTO_INCREMENT PRIMARY KEY,
